@@ -5,7 +5,7 @@
       location = "group:MyLocalFramework/MyLocalFramework.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:LatianEngkit/LatianEngkit.xcodeproj">
+      location = "group:LatianEngkitFirstApp/LatianEngkitFirstApp.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:LatianEngkitSecondApp/LatianEngkitSecondApp.xcodeproj">
