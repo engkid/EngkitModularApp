@@ -10,4 +10,8 @@ import UIKit
 
 class EngkitObject: NSObject {
 
+    func engkitObjectFunc() {
+        
+    }
+    
 }
