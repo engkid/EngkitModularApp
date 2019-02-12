@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:LatianEngkitThirdApp/LatianEngkitThirdApp.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:MyLocalFramework/MyLocalFramework.xcodeproj">
    </FileRef>
    <FileRef
@@ -12,5 +9,8 @@
    </FileRef>
    <FileRef
       location = "group:LatianEngkitSecondApp/LatianEngkitSecondApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LatianEngkitThirdApp/LatianEngkitThirdApp.xcodeproj">
    </FileRef>
 </Workspace>
