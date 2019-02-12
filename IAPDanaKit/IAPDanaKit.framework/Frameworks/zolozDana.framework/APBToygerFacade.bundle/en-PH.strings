@@ -1,0 +1,64 @@
+/* 
+  en.strings
+  APBToygerFacade
+
+  Created by shouyi.www on 2017/6/1.
+  Copyright © 2017年 Alipay. All rights reserved.
+*/
+
+"APBToygerFacade:取消"="Cancel";
+"APBToygerFacade:再试一次"="Retry";
+"APBToygerFacade:退出"="Exit";
+"APBToygerFacade:确定"="Exit";
+"APBToygerFacade:继续"="Continue";
+"APBToygerFacade:我知道了"="Got it";
+"APBToygerFacade:其他登录方式"="Another login method";
+"APBToygerFacade:刷脸失败"="Face scan failed";
+"APBToygerFacade:当前设备不支持刷脸"="This mobile phone may be broken, not supported for face authentication";
+"APBToygerFacade:当前系统不支持刷脸"="Face authentication not supported on your device system";
+"APBToygerFacade:无法启动相机"="Failed to access the camera";
+"APBToygerFacade:请到\“设置-隐私-相机\”开启权限"="Please allow access to the camera and try again";
+"APBToygerFacade:立即开启"="OK";
+"APBToygerFacade:刷脸仅在iOS8及以上系统可用"="Face authentication is only available for iOS8 or above";
+"APBToygerFacade:系统错误"="System error";
+"APBToygerFacade:确定退出吗?"="Would you like to exit?";
+
+"APBToygerFacade:操作超时"="Time out";
+"APBToygerFacade:提示:正对手机,更容易成功"="Position your face within the frame and make sure you have enough light";
+"APBToygerFacade:正对手机,更容易成功"="Position your face within the frame and make sure you have enough light";
+"APBToygerFacade:本次操作失败"="Attempt limit reached";
+"APBToygerFacade:网络不给力"="No Internet Connection";
+"APBToygerFacade:登录中断"="Login interrupted";
+"APBToygerFacade:验证中断"="Face scan was interrupted";
+
+
+"APBToygerFacade:刷脸验证"="Face Scan";
+"APBToygerFacade:请把脸放入框内保持不动"="Put your face into the frame";
+"APBToygerFacade:靠近一点"="Move closer";
+"APBToygerFacade:没有检测到脸"="No face detected";
+"APBToygerFacade:再清晰一点"="Face is not clear";
+"APBToygerFacade:脸部亮一点"="Too dark";
+"APBToygerFacade:请正对手机"="Face is not clear";
+"APBToygerFacade:把脸移入圈内"="No face detected";
+"APBToygerFacade:离远一点"="Move farther";
+"APBToygerFacade:请保持不动"="Stay still";
+"APBToygerFacade:请注视屏幕"="Open your eyes";
+"APBToygerFacade:眨眨眼"="Please blink";
+"APBToygerFacade:蚂蚁佐罗提供技术支持"="Powered by ZOLOZ";
+
+"APBToygerFacade:选择其他验证方式"="Use a different verification method";
+"APBToygerFacade:拿起手机眨眨眼"="Put your face into the frame";
+
+
+"APBToygerFacade:正在处理"="Processing...";
+"APBToygerFacade:首次使用，请开通刷脸"="For the first time use, please enable Face Scan";
+"APBToygerFacade:立即开通"="Enable";
+"APBToygerFacade:下次再说"="Later";
+
+"APBToygerFacade:请把手机正对面部"="Face straight at the phone";
+"APBToygerFacade:即将开始人脸检测"="Get ready for face recognition";
+
+"APBToygerFacade:请稍后再试"="Please try again later";
+"APBToygerFacade:露个脸就能通过"="If you exit,all the data you uploaded won’t be saved. ";
+"APBToygerFacade:您已达到操作上限，请稍后再试"="You've reached the maximum number of attempts. Please try again later.";
+"APBToygerFacade:请确认网络连接后再试"="Please check your internet connection and try again";

@@ -1,0 +1,89 @@
+/* Localized versions of Info.plist keys */
+
+// UIType 1 - 身份证
+"page_one_type_one_title" = "香港身份證";
+"page_one_type_one_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+"page_two_type_one_title" = "香港身份證";
+"page_two_type_one_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+
+// UIType 2 - 回乡证
+"page_one_type_two_title" = "回鄉證";
+"page_one_type_two_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+"page_two_type_two_title" = "回鄉證";
+"page_two_type_two_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+
+// UIType 3 - 护照
+"page_one_type_three_title" = "護照";
+"page_one_type_three_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+"page_two_type_three_title" = "護照";
+"page_two_type_three_subtitle" = "請把證件放入框內，保證清晰無反光";
+
+
+// Common String
+"page_one_title" = "證件驗證";
+"page_two_title" = "證件驗證";
+
+"zdoc_uploading_tip" = "正在處理…";
+"zdoc_upload_succeed" = "提交完成!";
+
+
+// Alert
+"alert_system_version_title" = "目前系統不支援拍攝證件";
+"alert_system_version_content" = "拍攝證件服務暫僅支援\niOS8及以上版本";
+"alert_system_version_button" = "我知道了";
+
+"alert_system_error_title" = "系統出錯";
+"alert_system_error_content" = "請稍後再試";
+"alert_system_error_button" = "我知道了";
+
+"alert_camera_error_title" = "無法啟動相機";
+"alert_camera_error_content" = "請到“設置-隱私-相機“開啓權限";
+"alert_camera_error_quitbutton" = "退出";
+"alert_camera_error_authbutton" = "開通權限";
+
+"alert_sure_to_quit_title" = "要退出嗎，可以繼續試試";
+"alert_sure_to_quit_content" = "提示：請將指定的證件放入框內，\n確保清晰無反光";
+"alert_sure_to_quit_quitbutton" = "退出";
+"alert_sure_to_quit_continuebutton" = "繼續";
+
+"alert_timeout_title" = "操作超時";
+"alert_timeout_content" = "提示：保證證件清晰無反光，\n更容易成功";
+"alert_timeout_quitbutton" = "退出";
+"alert_timeout_retrybutton" = "再試一次";
+
+"alert_server_fail_retry_title" = "質量檢測不通過";
+"alert_server_fail_retry_content" = "提示：請將指定的證件放入框內，\n確保清晰無反光";
+"alert_server_fail_retry_quitbutton" = "退出";
+"alert_server_fail_retry_retrybutton" = "再試一次";
+
+"alert_retry_limit_title" = "嘗試次數過多";
+"alert_retry_limit_content" = "請稍後再試";
+"alert_retry_limit_quitbutton" = "我知道了";
+
+"alert_network_error_title" = "網絡異常";
+"alert_network_error_content" = "可以再試一次或稍後再試";
+"alert_network_error_quitbutton" = "退出";
+"alert_network_error_retrybutton" = "再試一次";
+
+"alert_interruption_title" = "驗證中斷";
+"alert_interruption_content" = "可以繼續拍攝證件";
+"alert_interruption_quitbutton" = "退出";
+"alert_interruption_continuebutton" = "繼續";
+
+
+
+
+
+
+
+
+
+
+
+
+

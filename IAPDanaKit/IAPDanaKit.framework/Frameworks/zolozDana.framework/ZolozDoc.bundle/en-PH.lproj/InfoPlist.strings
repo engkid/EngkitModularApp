@@ -1,0 +1,200 @@
+/* Localized versions of Info.plist keys */
+
+// UIType 1 - 身份证
+"page_one_type_one_title" = "HK ID Card";
+"page_one_type_one_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+"page_two_type_one_title" = "HK ID Card";
+"page_two_type_one_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+
+// UIType 2 - 回乡证
+"page_one_type_two_title" = "Home Return Permit";
+"page_one_type_two_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+"page_two_type_two_title" = "Home Return Permit";
+"page_two_type_two_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+
+// UIType 3 - 护照
+"page_one_type_three_title" = "Passport";
+"page_one_type_three_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+"page_two_type_three_title" = "Passport";
+"page_two_type_three_subtitle" = "Please put your document within the frame.\nEnsure it is clear and no reflection.";
+
+// UIType 6/7 - 菲律宾UMID
+"page_one_type_six_title" = "Take a Photo of Your ID";
+"page_one_type_six_bottom_title" = "UMID (Front)";
+"page_one_type_six_bottom_subtitle" = "Place your ID within the frame.\nPlease make sure it is clear and has no glare.";
+"page_two_type_six_title" = "Take a Photo of Your ID";
+"page_two_type_six_bottom_title" = "UMID (Back)";
+"page_two_type_six_bottom_subtitle" = "Place your ID within the frame.\nPlease make sure it is clear and has no glare.";
+"powered_by_zoloz" = "Powered by ZOLOZ";
+"bottom_center_tip" = "Click “✓” to submit if all information on\nID is clear; if not, click “↻” to retake.";
+
+//UIType 8/9 TIN
+"type_8_bottom_title"   = "TIN ID (Front)";
+"type_9_bottom_title"    = "TIN ID (Back)";
+
+//UIType 10/11
+"type_10_bottom_title"     = "Passport Bio Page (Lower)";
+"type_11_bottom_title"  = "Passport Bio Page (Upper)";
+
+//UIType 12/13
+"type_12_bottom_title"     = "Driver’s License (Front)";
+"type_13_bottom_title"  = "Driver’s License (Back)";
+
+//UIType 14/15
+"type_14_bottom_title"     = "Alien/Immigrant CoR (Front)";
+"type_15_bottom_title"  = "Alien/Immigrant CoR (Back)";
+
+//UIType 16/17
+"type_16_bottom_title"     = "Barangay Certification (Front)";
+"type_17_bottom_title"  = "Barangay Certification (Back)";
+
+//UIType 18/19
+"type_18_bottom_title"     = "DSWD Certification (Front)";
+"type_19_bottom_title"  = "DSWD Certification (Back)";
+
+//UIType 20/21
+"type_20_bottom_title"     = "Gov't Office / GOCC ID (Front)";
+"type_21_bottom_title"  = "Gov't Office / GOCC ID (Back)";
+
+//UIType 22/23 GSIS e-Card
+"type_22_bottom_title"     = "GSIS e-Card (Front)";
+"type_23_bottom_title"  = "GSIS e-Card (Back)";
+
+//UIType 24/25
+"type_24_bottom_title"     = "IBP ID (Front)";
+"type_25_bottom_title"  = "IBP ID (Back)";
+
+//UIType 26/27
+"type_26_bottom_title"     = "NBI Clearance (Front)";
+"type_27_bottom_title"  = "NBI Clearance (Back)";
+
+//UIType 28/29
+"type_28_bottom_title"     = "NCWDP (Front)";
+"type_29_bottom_title"  = "NCWDP (Back)";
+
+//UIType 30/31
+"type_30_bottom_title"     = "OFW ID (Front)";
+"type_31_bottom_title"  = "OFW ID (Back)";
+
+//UIType 32/33
+"type_32_bottom_title"     = "OWWA ID (Front)";
+"type_33_bottom_title"  = "OWWA ID (Back)";
+
+//UIType 34/35
+"type_34_bottom_title"     = "Police Clearance (Front)";
+"type_35_bottom_title"  = "Police Clearance (Back)";
+
+//UIType 34/35
+"type_34_bottom_title"     = "Police Clearance (Front)";
+"type_35_bottom_title"  = "Police Clearance (Back)";
+
+//UIType 36/37
+"type_36_bottom_title"     = "Postal ID (Front)";
+"type_37_bottom_title"  = "Postal ID (Back)";
+
+//UIType 38/39
+"type_38_bottom_title"     = "PRC ID (Front)";
+"type_39_bottom_title"  = "PRC ID (Back)";
+
+//UIType 40/41
+"type_40_bottom_title"     = "Seaman’s Book (Front)";
+"type_41_bottom_title"  = "Seaman’s Book (Back)";
+
+//UIType 42/43
+"type_42_bottom_title"     = "Senior Citizen Card (Front)";
+"type_43_bottom_title"  = "Senior Citizen Card (Back)";
+
+//UIType 44/45
+"type_44_bottom_title"     = "SSS ID (Front)";
+"type_45_bottom_title"  = "SSS ID (Back)";
+
+//UIType 46/47
+"type_46_bottom_title"     = "Student's ID (Front)";
+"type_47_bottom_title"  = "Student's ID (Back)";
+"type_46_47_bottom_tip" = "If your ID is vertical, please\nmaintain its upright position within the frame.";
+
+//UIType 48/49
+"type_48_bottom_title"     = "Voter's ID (Front)";
+"type_49_bottom_title"  = "Voter's ID (Back)";
+
+//UIType 50/51
+"type_50_bottom_title"     = "Company ID (Front)";
+"type_51_bottom_title"  = "Company ID (Back)";
+
+// Common String
+"page_one_title" = "Document Verification";
+"page_two_title" = "Document Verification";
+
+//证件质量不过，错误详细信息文案
+"doc_error_bad_quality_title" = "Poor image quality";
+
+"doc_error_incorrect_doc_type_title" = "Document type is wrong";
+"doc_error_no_face_title" = "No photo on ID detected";
+"doc_error_incomplete_doc_title" = "Document is incomplete";
+
+"doc_error_retry_limit_title" = "Attempt limit reached";
+"doc_error_bad_quality_content" = "Make sure your ID can be clearly\nseen and has no glare";
+"doc_error_no_face_content" = "Make sure your photo on ID can be\nclearly seen and has no glare";
+"doc_error_incorrect_doc_type_content" = "Make sure you are using your\nspecified type of document";
+"doc_error_incomplete_doc_content" = "Make sure your ID can be clearly\nseen and is complete";
+"alert_exit" = "Exit";
+"alert_retry" = "Retry";
+
+
+
+
+"zdoc_uploading_tip" = "Processing…";
+"zdoc_upload_succeed" = "Submit completed!";
+
+
+// Alert
+"alert_system_version_title" = "This system doesn’t support";
+"alert_system_version_content" = "Document verification is only\navailable on iOS8 or above";
+"alert_system_version_button" = "Got it";
+
+"alert_system_error_title" = "System Error";
+"alert_system_error_content" = "Please try again later.";
+"alert_system_error_button" = "Got it";
+
+"alert_camera_error_title" = "“GCash” would like to access your camera";
+"alert_camera_error_content" = "GCash wants to access your camera";
+"alert_camera_error_quitbutton" = "Don't allow";
+"alert_camera_error_authbutton" = "OK";
+
+//"alert_sure_to_quit_title" = "Do you want to quit?";
+"alert_sure_to_quit_title" = "Would you like to exit?";
+//"alert_sure_to_quit_content" = "Tip: Ensure your document can be\nseen clearly and avoid reflection";
+"alert_sure_to_quit_content" = "If you exit, all the data you\nuploaded won’t be saved";
+//"alert_sure_to_quit_quitbutton" = "Quit";
+"alert_sure_to_quit_quitbutton" = "Exit";
+"alert_sure_to_quit_continuebutton" = "Cancel";
+
+"alert_timeout_title" = "Time out";
+"alert_timeout_content" = "Tip: Ensure your document can be\nseen clearly and avoid reflection";
+"alert_timeout_quitbutton" = "Quit";
+"alert_timeout_retrybutton" = "Retry";
+
+"alert_server_fail_retry_title" = "Quality check failed";
+"alert_server_fail_retry_content" = "Tip: Ensure your document can be\nseen clearly and avoid reflection";
+"alert_server_fail_retry_quitbutton" = "Quit";
+"alert_server_fail_retry_retrybutton" = "Retry";
+
+"alert_retry_limit_title" = "Too many attempts";
+"alert_retry_limit_content" = "Please try again later.";
+"alert_retry_limit_quitbutton" = "Got it";
+
+"alert_network_error_title" = "Not connected to Internet";
+"alert_network_error_content" = "Please try again now or later";
+"alert_network_error_quitbutton" = "Quit";
+"alert_network_error_retrybutton" = "Retry";
+
+"alert_interruption_title" = "Verification Interrupted";
+"alert_interruption_content" = "Please continue to verify\ndocument";
+"alert_interruption_quitbutton" = "Quit";
+"alert_interruption_continuebutton" = "Continue";
+

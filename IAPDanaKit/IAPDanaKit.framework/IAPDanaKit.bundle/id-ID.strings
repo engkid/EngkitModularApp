@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  IAPDanaKit
+
+  Created by Wahyudimas Hutama Rachman Syarief on 8/27/18.
+  Copyright © 2018 Alipay. All rights reserved.
+*/
+
+"CLOSE" = "TUTUP";
+"DANA QR" = "DANA QR";
+"Press refresh to generate new QR for payment" = "Tekan refresh untuk menampilkan QR pembayaran yang baru";
+"Tap anywhere to close" = "Ketuk dimana saja untuk kembali";
+"Top Up" = "Isi Saldo";
+"Transaction is Failed" = "Transaksi Gagal";
+"Transaction Success" = "Transaksi Sukses";
+"Your transaction is successfully paid using DANA Balance" = "Transaksi telah berhasil dibayar menggunakan saldo DANA";
+"Please show this code to  the cashier to start the payment" = "Untuk mulai membayar tunjukkan kode ini pada operator kasir";
+"Sorry, you scanned an invalid QR Code. Please check if the QR is a valid DANA QR." = "Maaf, Kode QR yang anda pindai tidak Valid. Mohon pindai Kode QR DANA yang valid.";

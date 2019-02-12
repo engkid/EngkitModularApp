@@ -1,0 +1,64 @@
+{
+    "hummer_version": "1.0.0",
+    "tasks": [
+              {
+              "type": "nativeTask",
+              "dispatchConfig": {
+              "jumpTo": -1
+              },
+              "renderConfig": {
+              "name": "ZDoc",
+              "autoClose": false,
+              "closeAfterExit": false,
+              "exitAfterFail": false,
+              "retryAfterCancel": false,
+              "zimIdKey": "DOC_ZIM_ID",
+              "bizDataKey": [
+                             "clientDocType"
+                             ]
+              }
+              },
+              {
+              "type": "webTask",
+              "dispatchConfig": {
+              "jumpTo": 0
+              },
+              "renderConfig": {
+              "name": "faceGuide",
+              "closeAfterExit": false,
+              "exitAfterFail": true,
+              "retryAfterCancel": false,
+              "url": "http://zc-face.assets.alipay.net/qingting/dana-fe/face_guide_page.html",
+              "urlPattern": "URL_FACE_GUIDE"
+              }
+              },
+              {
+              "type": "nativeTask",
+              "dispatchConfig": {
+              "jumpTo": 1
+              },
+              "renderConfig": {
+              "name": "ZFace",
+              "autoClose": false,
+              "closeAfterExit": false,
+              "exitAfterFail": false,
+              "retryAfterCancel": true,
+              "zimIdKey": "FACE_ZIM_ID"
+              }
+              },
+              {
+              "type": "webTask",
+              "dispatchConfig": {
+              "jumpTo": 1
+              },
+              "renderConfig": {
+              "name": "inputInfo",
+              "closeAfterExit": false,
+              "exitAfterFail": true,
+              "retryAfterCancel": true,
+              "url": "http://zc-face.assets.alipay.net/qingting/dana-fe/doc_user_input.html",
+              "urlPattern": "URL_DOC_USER_INPUT"
+              }
+              }
+              ]
+}
